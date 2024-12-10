@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexandrenolla
-- 👀 I’m interested in Learning Software Engineering and Digital Marketing.
-- 🌱 I’m currently learning Computer Science and Full Stack Development.
+- 👀 I’m interested in Software Engineering and Digital Marketing.
 - 💞️ I’m looking to collaborate on anything that creats value for humanity.
 - 📫 How to reach me alexandre.nolla@gmail.com
 
