@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrenolla
 - 👀 I’m interested in Software Engineering and Digital Marketing.
-- 💞️ I’m looking to collaborate on anything that creats value for humanity.
+- 💞️ I’m looking to collaborate on anything that creates value for humanity.
 - 📫 How to reach me alexandre.nolla@gmail.com
 
 <!---
